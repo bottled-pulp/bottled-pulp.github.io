@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Bottled Pulp</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content on Bottled Pulp</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Alicante Bouschet</title>
+        <link>http://localhost:1313/post/alicante-bouschet/</link>
+        <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/alicante-bouschet/</guid>
+        <description>&lt;img src="http://localhost:1313/post/alicante-bouschet/alicante-bu.jpg" alt="Featured image of post Alicante Bouschet" /&gt;&lt;p&gt;Lorem ipsum&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Bottled Pulp</title>
+        <link>http://localhost:1313/page/about/</link>
+        <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/about/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;Welcome to Bottled Pulp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Join me on a personal journey of discovery through the world of wine, where curiosity meets exploration. With four bottles
+always in rotation, I&amp;rsquo;ll be documenting my tasting experiences, sharing insights into grape varieties, wine styles, and the
+regions that produce them.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s how it works:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Grape Wednesday&lt;/strong&gt;: Each week, I&amp;rsquo;ll share a new grape and wine review, delving into its taste, aroma, and overall character. No
+dinner required!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fact Friday&lt;/strong&gt;: Every other Friday, I&amp;rsquo;ll take you on a deeper dive into the regions that produced this wine, exploring
+their history, culture, and grape varieties.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At Bottled Pulp, expertise is not the focus – curiosity and discovery are. Follow me as I learn, taste, and share my
+experiences from vineyards to cellars, and beyond!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Lambrusco</title>
+        <link>http://localhost:1313/post/lambrusco/</link>
+        <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/lambrusco/</guid>
+        <description>&lt;img src="http://localhost:1313/post/lambrusco/lambrusco.jpg" alt="Featured image of post Lambrusco" /&gt;&lt;p&gt;Lorem impsum&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Verdejo</title>
+        <link>http://localhost:1313/post/verdejo/</link>
+        <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/verdejo/</guid>
+        <description>&lt;img src="http://localhost:1313/post/verdejo/lambrusco.jpg" alt="Featured image of post Verdejo" /&gt;&lt;p&gt;Lorem impsum&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/page/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

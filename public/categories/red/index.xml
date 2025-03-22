@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Red on Bottled Pulp</title>
+        <link>http://localhost:1313/categories/red/</link>
+        <description>Recent content in Red on Bottled Pulp</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/red/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Lambrusco</title>
+        <link>http://localhost:1313/post/lambrusco/</link>
+        <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/lambrusco/</guid>
+        <description>&lt;img src="http://localhost:1313/post/lambrusco/lambrusco.jpg" alt="Featured image of post Lambrusco" /&gt;&lt;p&gt;Lorem impsum&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Lambrusco</title>
+        <link>http://localhost:1313/post/verdejo/</link>
+        <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/verdejo/</guid>
+        <description>&lt;img src="http://localhost:1313/post/verdejo/lambrusco.jpg" alt="Featured image of post Lambrusco" /&gt;&lt;p&gt;Lorem impsum&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
